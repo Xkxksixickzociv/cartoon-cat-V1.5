@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="meat horse xd.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="849" height="767" pivotX="79.55" pivotY="487.9"/>
+	<SubTexture name="idle0001" x="0" y="0" width="849" height="767"/>
+	<SubTexture name="idle0002" x="0" y="0" width="849" height="767"/>
+	<SubTexture name="spawn xd0000" x="849" y="0" width="809" height="733" pivotX="79.55" pivotY="487.9" frameX="-72" frameY="-9" frameWidth="881" frameHeight="776"/>
+	<SubTexture name="spawn xd0001" x="1658" y="0" width="818" height="743" frameX="-61" frameY="-10" frameWidth="881" frameHeight="776"/>
+	<SubTexture name="spawn xd0002" x="2476" y="0" width="829" height="753" frameX="-49" frameY="-11" frameWidth="881" frameHeight="776"/>
+	<SubTexture name="spawn xd0003" x="0" y="767" width="839" height="764" frameX="-38" frameY="-12" frameWidth="881" frameHeight="776"/>
+	<SubTexture name="spawn xd0004" x="839" y="767" width="842" height="765" frameX="-31" frameY="-10" frameWidth="881" frameHeight="776"/>
+	<SubTexture name="spawn xd0005" x="1681" y="767" width="844" height="767" frameX="-25" frameY="-8" frameWidth="881" frameHeight="776"/>
+	<SubTexture name="spawn xd0006" x="2525" y="767" width="847" height="769" frameX="-18" frameY="-6" frameWidth="881" frameHeight="776"/>
+	<SubTexture name="spawn xd0007" x="0" y="1536" width="849" height="769" frameX="-12" frameY="-5" frameWidth="881" frameHeight="776"/>
+	<SubTexture name="spawn xd0008" x="849" y="1536" width="849" height="769" frameX="-6" frameY="-2" frameWidth="881" frameHeight="776"/>
+	<SubTexture name="spawn xd0009" x="0" y="0" width="849" height="767"/>
+	<SubTexture name="spawn xd0010" x="0" y="0" width="849" height="767"/>
+	<SubTexture name="spawn xd0011" x="0" y="0" width="849" height="767"/>
+	<SubTexture name="spawn xd0012" x="0" y="0" width="849" height="767"/>
+	<SubTexture name="spawn xd0013" x="0" y="0" width="849" height="767"/>
+</TextureAtlas>
