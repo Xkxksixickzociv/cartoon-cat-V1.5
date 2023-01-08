@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "room",
+		"player1": "bf-arm",
+		"player2": "hore",
+		"player3": null,
+		"events": [
+			[
+				112750,
+				[
+					[
+						"jumpscare",
+						"oscuridad",
+						"3"
+					],
+					[
+						"Change Character",
+						"dad",
+						"nogf"
+					],
+					[
+						"Screen Shake",
+						"1000, 0.01",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes-gray",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 120,
+		"arrowSkin": "NOTE_assets-gray",
+		"needsVoices": true,
+		"song": "Equinophobia"
+	}
+}
