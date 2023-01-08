@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="friendly_cat.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sing Down0000" x="1044" y="974" width="748" height="779" pivotX="542.2" pivotY="510.65" frameX="-39" frameY="-40" frameWidth="869" frameHeight="830"/>
+	
+	<SubTexture name="Idle0000" x="0" y="0" width="694" height="898" pivotX="605.7" pivotY="585.15" frameX="-40" frameY="-3" frameWidth="873" frameHeight="900"/>
+	
+	<SubTexture name="Sing Left0000" x="1367" y="0" width="857" height="888" pivotX="820.55" pivotY="576.2" frameX="-128" frameY="-18" frameWidth="985" frameHeight="906"/>
+	
+	<SubTexture name="Sing Right0000" x="0" y="971" width="797" height="874" pivotX="520.05" pivotY="592.8" frameX="0" frameY="-30" frameWidth="901" frameHeight="907"/>
+	
+	<SubTexture name="Sing Up0000" x="695" y="0" width="653" height="966" pivotX="429.35" pivotY="729.5" frameX="-36" frameY="-33" frameWidth="794" frameHeight="1049"/>
+
+</TextureAtlas>

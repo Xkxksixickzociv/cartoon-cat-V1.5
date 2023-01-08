@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="reruns_cc_new_lol.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="712" height="405" frameX="-1" frameY="0" frameWidth="714" frameHeight="405"/>
+	<SubTexture name="down0001" x="712" y="0" width="712" height="399" frameX="-1" frameY="-5" frameWidth="714" frameHeight="405"/>
+	<SubTexture name="down0002" x="1424" y="0" width="714" height="387" frameX="0" frameY="-15" frameWidth="714" frameHeight="405"/>
+	<SubTexture name="idle 0000" x="2138" y="0" width="556" height="775" frameX="0" frameY="-6" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0001" x="2694" y="0" width="556" height="774" frameX="0" frameY="-7" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0002" x="3250" y="0" width="549" height="778" frameX="-3" frameY="-4" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0003" x="0" y="778" width="549" height="778" frameX="-3" frameY="-4" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0004" x="549" y="778" width="542" height="779" frameX="-6" frameY="-3" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0005" x="1091" y="778" width="542" height="776" frameX="-6" frameY="-6" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0006" x="1633" y="778" width="535" height="777" frameX="-9" frameY="-6" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0007" x="2168" y="778" width="535" height="778" frameX="-9" frameY="-5" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0008" x="2703" y="778" width="527" height="783" frameX="-13" frameY="0" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0009" x="3230" y="778" width="527" height="772" frameX="-13" frameY="-11" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0010" x="0" y="1561" width="521" height="784" frameX="-16" frameY="0" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0011" x="521" y="1561" width="521" height="782" frameX="-16" frameY="-2" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0012" x="1042" y="1561" width="513" height="784" frameX="-20" frameY="0" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0013" x="1555" y="1561" width="513" height="780" frameX="-20" frameY="-4" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0014" x="2068" y="1561" width="506" height="784" frameX="-23" frameY="0" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0015" x="2574" y="1561" width="506" height="783" frameX="-23" frameY="-1" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="idle 0016" x="3080" y="1561" width="499" height="784" frameX="-27" frameY="0" frameWidth="556" frameHeight="784"/>
+	<SubTexture name="left0000" x="0" y="2345" width="749" height="682" frameX="-16" frameY="0" frameWidth="777" frameHeight="682"/>
+	<SubTexture name="left0001" x="749" y="2345" width="741" height="677" frameX="0" frameY="-5" frameWidth="777" frameHeight="682"/>
+	<SubTexture name="left0002" x="1490" y="2345" width="758" height="678" frameX="-19" frameY="-4" frameWidth="777" frameHeight="682"/>
+	<SubTexture name="right0000" x="2248" y="2345" width="657" height="759" frameX="0" frameY="0" frameWidth="747" frameHeight="759"/>
+	<SubTexture name="right0001" x="2905" y="2345" width="683" height="756" frameX="0" frameY="-3" frameWidth="747" frameHeight="759"/>
+	<SubTexture name="right0002" x="0" y="3104" width="747" height="736" frameX="0" frameY="-23" frameWidth="747" frameHeight="759"/>
+	<SubTexture name="up0000" x="747" y="3104" width="1074" height="905" frameX="-4" frameY="-82" frameWidth="1081" frameHeight="990"/>
+	<SubTexture name="up0001" x="1821" y="3104" width="1055" height="990" frameX="-13" frameY="0" frameWidth="1081" frameHeight="990"/>
+	<SubTexture name="up0002" x="2876" y="3104" width="1081" height="901" frameX="0" frameY="-87" frameWidth="1081" frameHeight="990"/>
+</TextureAtlas>
+
