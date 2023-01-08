@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Toon Swing", "cc-toon", [255, 255, 255]]
+	],
+
+	"weekCharacters": [
+		"bfno",
+		"bfno",
+		"bfno"
+	],
+	"weekBackground": "toon",
+	"difficulties": "hard",
+
+	"storyName": "Toon",
+	"weekBefore": "tutorial",
+	"weekName": "Toon",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
