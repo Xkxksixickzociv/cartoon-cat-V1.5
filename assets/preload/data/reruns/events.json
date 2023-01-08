@@ -1,0 +1,154 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "mallcc",
+		"player1": "bfr",
+		"player2": "cc",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Jumpscare Animated",
+						"cb_glitch",
+						"0"
+					],
+					[
+						"Jumpscare Animated",
+						"static1",
+						"0"
+					],
+					[
+						"Jumpscare Animated",
+						"static2",
+						"0"
+					]
+				]
+			],
+			[
+				39240,
+				[
+					[
+						"Jumpscare Animated",
+						"static1",
+						"0.2"
+					]
+				]
+			],
+			[
+				46920,
+				[
+					[
+						"Jumpscare Animated",
+						"static2",
+						"0.3"
+					]
+				]
+			],
+			[
+				62280,
+				[
+					[
+						"Jumpscare Animated",
+						"static2",
+						"0.3"
+					]
+				]
+			],
+			[
+				72120,
+				[
+					[
+						"Jumpscare Animated",
+						"static2",
+						"0.3"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"jumpscare",
+						"cb_glitch_img",
+						"0.2"
+					]
+				]
+			],
+			[
+				77280,
+				[
+					[
+						"jumpscare",
+						"cb_glitch_img",
+						"0.2"
+					]
+				]
+			],
+			[
+				77640,
+				[
+					[
+						"Jumpscare Animated",
+						"cb_glitch",
+						"0.7"
+					],
+					[
+						"Change Character",
+						"dad",
+						"ccbf"
+					]
+				]
+			],
+			[
+				80160,
+				[
+					[
+						"Jumpscare Animated",
+						"static2",
+						"0.3"
+					]
+				]
+			],
+			[
+				85440,
+				[
+					[
+						"Jumpscare Animated",
+						"static1",
+						"0.5"
+					],
+					[
+						"Change Character",
+						"dad",
+						"ccangrynew"
+					]
+				]
+			],
+			[
+				121560,
+				[
+					[
+						"Play Animation",
+						"redacted",
+						"bf"
+					],
+					[
+						"Jumpscare Animated",
+						"static2",
+						"0.2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes-gray",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 125,
+		"arrowSkin": "NOTE_assets-gray",
+		"needsVoices": true,
+		"song": "Reruns"
+	}
+}
