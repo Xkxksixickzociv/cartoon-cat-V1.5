@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "void",
+		"player1": "nobf",
+		"player2": "dead-horse",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Mono",
+						"meat-horse",
+						"0"
+					]
+				]
+			],
+			[
+				34500,
+				[
+					[
+						"Mono",
+						"meat-horse",
+						"1"
+					]
+				]
+			],
+			[
+				47250,
+				[
+					[
+						"jumpscare",
+						"hose",
+						"0.7"
+					]
+				]
+			],
+			[
+				76500,
+				[
+					[
+						"Mono",
+						"meat-horse",
+						"1"
+					]
+				]
+			],
+			[
+				89250,
+				[
+					[
+						"jumpscare",
+						"hose",
+						"0.7"
+					]
+				]
+			],
+			[
+				104625,
+				[
+					[
+						"jumpscare",
+						"hose",
+						"0.7"
+					]
+				]
+			],
+			[
+				113250,
+				[
+					[
+						"jumpscare",
+						"hose",
+						"0.7"
+					]
+				]
+			],
+			[
+				118500,
+				[
+					[
+						"Mono",
+						"meat-horse",
+						"1"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"jumpscare",
+						"hose",
+						"0.7"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes-gray",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 160,
+		"arrowSkin": "NOTE_assets-gray",
+		"needsVoices": true,
+		"song": "Monochrome"
+	}
+}
