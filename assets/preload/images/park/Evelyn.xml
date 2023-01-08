@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Evelyn.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Evelyn Idle0000" x="0" y="0" width="393" height="619" frameX="-12" frameY="-12" frameWidth="408" frameHeight="632"/>
+	<SubTexture name="Evelyn Idle0001" x="393" y="0" width="397" height="624" frameX="-10" frameY="-8" frameWidth="408" frameHeight="632"/>
+	<SubTexture name="Evelyn Idle0002" x="790" y="0" width="400" height="626" frameX="-7" frameY="-5" frameWidth="408" frameHeight="632"/>
+	<SubTexture name="Evelyn Idle0003" x="1190" y="0" width="404" height="630" frameX="-3" frameY="-2" frameWidth="408" frameHeight="632"/>
+	<SubTexture name="Evelyn Idle0004" x="1594" y="0" width="408" height="632"/>
+	<SubTexture name="Evelyn Idle0005" x="1594" y="0" width="408" height="632"/>
+	<SubTexture name="Evelyn Idle0006" x="1594" y="0" width="408" height="632"/>
+	<SubTexture name="Evelyn Idle0007" x="1594" y="0" width="408" height="632"/>
+	<SubTexture name="Evelyn Idle0008" x="1594" y="0" width="408" height="632"/>
+	<SubTexture name="Evelyn Idle0009" x="1594" y="0" width="408" height="632"/>
+	<SubTexture name="Evelyn Idle0010" x="1594" y="0" width="408" height="632"/>
+	<SubTexture name="Evelyn Idle0011" x="1594" y="0" width="408" height="632"/>
+	<SubTexture name="Evelyn Idle0012" x="1594" y="0" width="408" height="632"/>
+	<SubTexture name="Evelyn Idle0013" x="1594" y="0" width="408" height="632"/>
+	<SubTexture name="Evelyn Idle0014" x="1594" y="0" width="408" height="632"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="melody.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Melody Idle0000" x="0" y="0" width="408" height="669" frameX="0" frameY="-13" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0001" x="408" y="0" width="410" height="673" frameX="-1" frameY="-9" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0002" x="818" y="0" width="411" height="675" frameX="-4" frameY="-7" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0003" x="1229" y="0" width="413" height="678" frameX="-5" frameY="-4" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0004" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0005" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0006" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0007" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0008" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0009" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0010" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0011" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0012" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0013" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+	<SubTexture name="Melody Idle0014" x="0" y="678" width="415" height="681" frameX="-6" frameY="0" frameWidth="421" frameHeight="682"/>
+</TextureAtlas>
